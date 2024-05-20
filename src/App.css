@@ -1,0 +1,27 @@
+body{
+  background: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98,58,162,1) 90% );
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+
+}
+.main {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-container {
+  min-height: 80vh;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(98,58,162);
+  border: none;
+  border-radius: 20px;
+  padding: 2rem;
+  color:white;
+}
