@@ -1,6 +1,6 @@
 # QUESTION APP
 
-Bu proje react ile yazılmıştır
-React Router kullanılarak farklı sayfalara geçişler sağlanmıştır
-Bize verilen data export ve import edilerek ve üzerinde işlemler yapılarak sayfa tasarlanmıştır.
-UseEffect hook yapısı kullanılarak data üzerindeki bilgilerin bir döngü şeklinde sayfada gösterilmesi sağlanmıştır.
+This project is written in react
+Transitions to different pages were made using React Router.
+The page was designed by exporting and importing the data given to us and performing operations on it.
+By using the UseEffect hook structure, the information on the data is displayed on the page in a loop.
